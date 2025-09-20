@@ -5,7 +5,7 @@
 //ANY MODIFICATION OF THIS SKETCH HAS TO BE OPEN SOURCED ASWELL
 //
 //
-//Github: https://github.com/TechniCraft1/Tetris_like_game_UNO
+//Github: https://github.com/TechniCraft1/Block_game_UNO
 //
 //Display: I2C OLED 128x64
 //
