@@ -1,7 +1,8 @@
-# Tetris_like_game_UNO
-This is a simple game that mimics the original Tetris for the Arduino Uno and the SSD1306 OLED Display.
+# Block_game_UNO
+This is a simple game that mimics the original 'Tetris' for the Arduino Uno and the SSD1306 OLED Display.
 Note: Under Development
 
+For Educational purposes only!
 
 # Requirements:
 1x Arduino with the ATMEL ATmega 328P
