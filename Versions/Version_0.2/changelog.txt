@@ -1,1 +1,8 @@
+Changelog for Version 0.2 - 21/Sep/2025
+Small changes;
+-If button 5 is presssed a new game will start after the Game Over screen.
+-New High scoring system
 
+-FIXED BUG:
+-Garbage at the bottom of the Game Over screen.
+-After a amount of Lines is reached, the lines are not displayed properly at the right side of the screen.
