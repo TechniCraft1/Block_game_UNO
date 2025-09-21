@@ -35,7 +35,7 @@ Buttons(Arduino UNO):
 
 -PB4: Move block Down
 
--PB5: Rotate Block
+-PB5: Rotate Block / Start new Game
 
 
 
@@ -47,18 +47,19 @@ A4 --> SDA
 
 
 # To-Do / Improvements
--Start new Game after Game over screen
+-Start new Game after Game over screen --Done
 
 -Title Screen
 
 -Faster Code
 
--More Information at the right side of the screen
+-More Information at the right side of the screen --Done
 
--High score system
+-High score system --Done
 
 -Saving score to EEPROM
 
+-Make the Grid more Memory efficient
 
 
 # THANKS TO:
